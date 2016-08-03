@@ -1,0 +1,29 @@
+.sidebar {
+  float: right;
+  overflow: visible;
+  background-color: 800080;
+  padding: 3px;
+}
+
+.column {
+  width: 23%;
+  float: left;
+  padding: 2vw;
+}
+
+.shows {
+  background-color: ivory;
+  color:  blue;
+  font-weight: bold;
+  font-size: 28px;
+  width: 20vw;
+  float: left;
+}
+
+img {
+border: 2px solid black;
+margin: 5px;
+padding: 3px;
+width: 23vw;
+height: auto;
+}
